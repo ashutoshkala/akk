@@ -1,0 +1,25 @@
+body{
+    background-color: #EAF6F6;
+    
+}
+hr{
+    background-color: red;
+    border-style: none;
+    height: 2px;
+}
+img{
+    border-style: dotted;
+    border-width: 10px;
+    border-color: blueviolet;
+
+}
+
+h1{
+    color: #66bfbf;;
+}
+h3{
+    color: #66bfbf;
+}
+.circles{
+   color: #66bfbf;
+}
